@@ -1,0 +1,11 @@
+## Dependencies
+/node_modules
+
+## Environment files
+/.env
+
+## Package lock files
+package-lock.json
+
+## Folder for uploaded files that should not be shared
+/upload
