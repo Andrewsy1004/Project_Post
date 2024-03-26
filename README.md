@@ -37,7 +37,7 @@ Here are some visual examples of our project in action:
 - Node.js
 - npm or Yarn
 
-- ### Installing
+### Installing
 
 ```bash
 # Clone the repository
