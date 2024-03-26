@@ -36,3 +36,27 @@ Here are some visual examples of our project in action:
 ### Prerequisites
 - Node.js
 - npm or Yarn
+
+- ### Installing
+
+```bash
+# Clone the repository
+git clone https://github.com/Andrewsy1004/Project_Post.git
+
+# Navigate to the backend directory and install npm packages
+cd Project_Post/Backend
+npm install
+
+# Navigate to the frontend directory and install npm packages
+cd ../Frontend
+npm install
+
+# Run the backend
+cd ../Backend
+npm start
+
+# npm run dev
+
+# Run the frontend
+cd ../Frontend
+npm start
