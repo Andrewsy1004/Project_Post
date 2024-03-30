@@ -27,9 +27,6 @@ Here are some visual examples of our project in action:
 ### Post Detail
 ![Post Detail](/Frontend/img/SinglePost.png "Post Detail View")
 
-### Comment Section
-![Comment Section](/Frontend/img/PostOtherPersonView.png "Comment Section View")
-
 
 ## 🏁 Getting Started
  
