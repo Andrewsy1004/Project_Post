@@ -22,11 +22,10 @@ This project is a blogging platform where users can create personal blog posts, 
 Here are some visual examples of our project in action:
 
 ### Home Page
-![Home Page](/Frontend/img/Navbar.png "Home Page View")
+![Home Page](/Frontend/img/Principal.png "Home Page View")
 
 ### Post Detail
-![Post Detail](/Frontend/img/SinglePost.png "Post Detail View")
-
+![Post Detail](/Frontend/img/articulo.png "Post Detail View")
 
 ## 🏁 Getting Started
  
