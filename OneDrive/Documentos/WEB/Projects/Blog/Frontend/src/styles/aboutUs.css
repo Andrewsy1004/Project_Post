@@ -1,0 +1,20 @@
+.typing-effect {
+  white-space: nowrap;   /* Evita el salto de línea */
+  overflow: hidden;      /* Oculta el texto que "no ha sido escrito" */
+  margin: 0 auto;        /* Centrar si es necesario */
+  letter-spacing: 0.1em; /* Espacio entre caracteres */
+  animation: typing 6.5s steps(40, end) forwards, /* Se ejecuta una vez y se mantiene al final */
+             blink-caret 0.75s step-end 6.5s;     /* Se ejecuta hasta que termine typing */
+}
+
+/* Animación del efecto de escritura */
+@keyframes typing {
+from { width: 0 }
+to { width: 100% }
+}
+
+/* Animación del parpadeo del cursor */
+@keyframes blink-caret {
+0%, 50% { border-color: red; }
+100% { border-color: transparent; } /* Asegura que el cursor sea transparente al final */
+}
